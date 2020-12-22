@@ -1,4 +1,4 @@
-#Streamio 
+# Streamio 
 
 Streamio is a react redux based client app which has similar functionality as twitch live streaming app has
 
